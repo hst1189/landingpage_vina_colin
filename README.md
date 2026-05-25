@@ -1,9 +1,9 @@
-# toyovina
+# https://www.vina-colin.com
 
 - ✅ 1. 网站风格选择
 - ✅ 2. 色调搭配
 - ✅ 3. 网站框架
-- ✖️ 4. logo、 ico
+- ✅ 4. logo、 ico
 - ✅ 5. 主页
 - ✅ 6. 从页
  - ✅ 6-1.  ∟service
